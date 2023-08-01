@@ -71,7 +71,7 @@ export function AdminAddNewUser() {
       let userObject = {
         firstName: firstName,
         lastName: lastName,
-        username: user,
+        email: user,
         role: userRole,
         password: password,
         managerId: selectedOption,
