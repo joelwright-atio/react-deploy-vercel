@@ -1,0 +1,16 @@
+.radiobuttons{
+    display: flex;
+    padding-bottom: 0rem;
+    
+
+}
+
+.radio{
+    padding-right: 2rem;
+    font-size:medium;
+    font-style: italic;
+}
+
+.dropDownMenu{
+    padding-right: 2rem;
+}
